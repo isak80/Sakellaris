@@ -1,2 +1,2 @@
 # Sakellaris
-EKPA
+**EKPA**
